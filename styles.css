@@ -2,6 +2,10 @@ th {
 	cursor: pointer;
 }
 
+body {
+	padding: 5px;
+}
+
 .table-section {
 	text-align: center;
 }
