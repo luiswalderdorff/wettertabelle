@@ -1,0 +1,33 @@
+th {
+	cursor: pointer;
+}
+
+.table-section {
+	text-align: center;
+}
+input {
+	margin-bottom: 10px;
+}
+
+button {
+	display: none;
+}
+
+@media (min-width: 768px) {
+	body {
+	display: flex;
+}
+.table-section {
+	width: 50%;
+}
+
+.chart-section {
+	width: 50%;
+	margin-top: 100px;
+}
+}
+
+
+@media (min-width: 1024px) { 
+
+}
